@@ -1,0 +1,69 @@
+﻿
+2021-04-14 10:05:38.055 +05:30 [INF] User profile is available. Using 'C:\Users\ASTHA JAIN\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-14 10:05:40.232 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-14 10:05:40.236 +05:30 [INF] Hosting environment: Development
+2021-04-14 10:05:40.240 +05:30 [INF] Content root path: C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.Web
+2021-04-14 10:05:40.413 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/  
+2021-04-14 10:05:40.503 +05:30 [INF] Executing endpoint 'ZomatoApp.Web.HomeController.Index (ZomatoApp.Web)'
+2021-04-14 10:05:41.001 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ZomatoApp.Web.HomeController (ZomatoApp.Web).
+2021-04-14 10:05:41.095 +05:30 [INF] Executing ViewResult, running view Index.
+2021-04-14 10:05:42.554 +05:30 [INF] Executed ViewResult - view Index executed in 1472.2183ms.
+2021-04-14 10:05:42.561 +05:30 [INF] Executed action ZomatoApp.Web.HomeController.Index (ZomatoApp.Web) in 1555.7015ms
+2021-04-14 10:05:42.565 +05:30 [INF] Executed endpoint 'ZomatoApp.Web.HomeController.Index (ZomatoApp.Web)'
+2021-04-14 10:05:42.714 +05:30 [INF] Request finished in 2306.1699ms 200 text/html; charset=utf-8
+2021-04-14 10:05:46.253 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/css/site.css  
+2021-04-14 10:05:46.253 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/lib/jquery/dist/jquery.min.js  
+2021-04-14 10:05:46.253 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/lib/bootstrap/dist/css/bootstrap.min.css  
+2021-04-14 10:05:46.570 +05:30 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2021-04-14 10:05:46.570 +05:30 [INF] The file /css/site.css was not modified
+2021-04-14 10:05:46.570 +05:30 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2021-04-14 10:05:46.708 +05:30 [INF] Request finished in 456.1567ms 304 text/css
+2021-04-14 10:05:46.708 +05:30 [INF] Request finished in 455.4161ms 304 text/css
+2021-04-14 10:05:46.708 +05:30 [INF] Request finished in 455.6597ms 304 application/javascript
+2021-04-14 10:05:46.912 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2021-04-14 10:05:46.943 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2021-04-14 10:05:46.966 +05:30 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2021-04-14 10:05:46.966 +05:30 [INF] The file /js/site.js was not modified
+2021-04-14 10:05:46.973 +05:30 [INF] Request finished in 30.5899ms 304 application/javascript
+2021-04-14 10:05:46.973 +05:30 [INF] Request finished in 61.0569ms 304 application/javascript
+2021-04-14 10:13:10.793 +05:30 [INF] User profile is available. Using 'C:\Users\ASTHA JAIN\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-14 10:13:12.856 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-14 10:13:12.862 +05:30 [INF] Hosting environment: Development
+2021-04-14 10:13:12.868 +05:30 [INF] Content root path: C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.Web
+2021-04-14 10:13:13.042 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/  
+2021-04-14 10:13:13.131 +05:30 [INF] Executing endpoint 'ZomatoApp.Web.HomeController.Index (ZomatoApp.Web)'
+2021-04-14 10:13:13.318 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ZomatoApp.Web.HomeController (ZomatoApp.Web).
+2021-04-14 10:13:13.383 +05:30 [INF] Executing ViewResult, running view Index.
+2021-04-14 10:13:13.969 +05:30 [INF] Executed ViewResult - view Index executed in 593.0932ms.
+2021-04-14 10:13:14.001 +05:30 [INF] Executed action ZomatoApp.Web.HomeController.Index (ZomatoApp.Web) in 674.9673ms
+2021-04-14 10:13:14.005 +05:30 [INF] Executed endpoint 'ZomatoApp.Web.HomeController.Index (ZomatoApp.Web)'
+2021-04-14 10:13:14.013 +05:30 [INF] Request finished in 980.2624ms 200 text/html; charset=utf-8
+2021-04-14 12:36:56.519 +05:30 [INF] User profile is available. Using 'C:\Users\ASTHA JAIN\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-14 12:36:57.999 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-14 12:36:58.003 +05:30 [INF] Hosting environment: Development
+2021-04-14 12:36:58.006 +05:30 [INF] Content root path: C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.Web
+2021-04-14 12:36:58.235 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/  
+2021-04-14 12:36:58.285 +05:30 [INF] Executing endpoint 'ZomatoApp.Web.HomeController.Index (ZomatoApp.Web)'
+2021-04-14 12:36:58.593 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ZomatoApp.Web.HomeController (ZomatoApp.Web).
+2021-04-14 12:36:58.655 +05:30 [INF] Executing ViewResult, running view Index.
+2021-04-14 12:36:59.051 +05:30 [INF] Executed ViewResult - view Index executed in 408.3713ms.
+2021-04-14 12:36:59.058 +05:30 [INF] Executed action ZomatoApp.Web.HomeController.Index (ZomatoApp.Web) in 458.8933ms
+2021-04-14 12:36:59.062 +05:30 [INF] Executed endpoint 'ZomatoApp.Web.HomeController.Index (ZomatoApp.Web)'
+2021-04-14 12:36:59.088 +05:30 [INF] Request finished in 859.5249ms 200 text/html; charset=utf-8
+2021-04-14 12:36:59.253 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/lib/bootstrap/dist/css/bootstrap.min.css  
+2021-04-14 12:36:59.253 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/lib/jquery/dist/jquery.min.js  
+2021-04-14 12:36:59.253 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/css/site.css  
+2021-04-14 12:36:59.437 +05:30 [INF] The file /css/site.css was not modified
+2021-04-14 12:36:59.437 +05:30 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2021-04-14 12:36:59.437 +05:30 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2021-04-14 12:36:59.453 +05:30 [INF] Request finished in 200.2189ms 304 application/javascript
+2021-04-14 12:36:59.453 +05:30 [INF] Request finished in 200.2485ms 304 text/css
+2021-04-14 12:36:59.462 +05:30 [INF] Request finished in 205.7035ms 304 text/css
+2021-04-14 12:36:59.576 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2021-04-14 12:36:59.585 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2021-04-14 12:36:59.590 +05:30 [INF] The file /js/site.js was not modified
+2021-04-14 12:36:59.590 +05:30 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2021-04-14 12:36:59.605 +05:30 [INF] Request finished in 19.9007ms 304 application/javascript
+2021-04-14 12:36:59.610 +05:30 [INF] Request finished in 33.7927ms 304 application/javascript
+2021-04-14 12:37:06.639 +05:30 [INF] Request starting HTTP/2.0 GET https://localhost:44356/Home/Privacy  
+2021-04-14 12:37:06.673 +05:30 [INF] Request finished in 34.8509ms 404 

@@ -1,0 +1,8 @@
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.DomainModel\bin\Debug\netcoreapp3.1\ZomatoApp.DomainModel.deps.json
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.DomainModel\bin\Debug\netcoreapp3.1\ZomatoApp.DomainModel.dll
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.DomainModel\bin\Debug\netcoreapp3.1\ZomatoApp.DomainModel.pdb
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.DomainModel\obj\Debug\netcoreapp3.1\ZomatoApp.DomainModel.AssemblyInfoInputs.cache
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.DomainModel\obj\Debug\netcoreapp3.1\ZomatoApp.DomainModel.AssemblyInfo.cs
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.DomainModel\obj\Debug\netcoreapp3.1\ZomatoApp.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.DomainModel\obj\Debug\netcoreapp3.1\ZomatoApp.DomainModel.dll
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.DomainModel\obj\Debug\netcoreapp3.1\ZomatoApp.DomainModel.pdb

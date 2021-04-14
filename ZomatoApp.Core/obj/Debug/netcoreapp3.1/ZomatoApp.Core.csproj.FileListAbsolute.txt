@@ -1,0 +1,9 @@
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.Core\bin\Debug\netcoreapp3.1\ZomatoApp.Core.deps.json
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.Core\bin\Debug\netcoreapp3.1\ZomatoApp.Core.dll
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.Core\bin\Debug\netcoreapp3.1\ZomatoApp.Core.pdb
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.Core\obj\Debug\netcoreapp3.1\ZomatoApp.Core.csprojAssemblyReference.cache
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.Core\obj\Debug\netcoreapp3.1\ZomatoApp.Core.AssemblyInfoInputs.cache
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.Core\obj\Debug\netcoreapp3.1\ZomatoApp.Core.AssemblyInfo.cs
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.Core\obj\Debug\netcoreapp3.1\ZomatoApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.Core\obj\Debug\netcoreapp3.1\ZomatoApp.Core.dll
+C:\Users\ASTHA JAIN\source\repos\ZomatoApp\ZomatoApp.Core\obj\Debug\netcoreapp3.1\ZomatoApp.Core.pdb

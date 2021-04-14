@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZomatoApp.Web", "ZomatoApp.Web\ZomatoApp.Web.csproj", "{F923792C-ABE9-4F22-9C56-7A934F76403E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{897A550E-6CEF-4F92-85C7-C2FB29B3CA9E} = {897A550E-6CEF-4F92-85C7-C2FB29B3CA9E}
+		{FF4DF979-CB2C-4121-8607-DC7656C60EB9} = {FF4DF979-CB2C-4121-8607-DC7656C60EB9}
+		{4646648C-7597-4F27-A1B0-D151B9CFB994} = {4646648C-7597-4F27-A1B0-D151B9CFB994}
+		{E44E10ED-91AD-4F1B-AF55-A7A94BBF944A} = {E44E10ED-91AD-4F1B-AF55-A7A94BBF944A}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZomatoApp.Core", "ZomatoApp.Core\ZomatoApp.Core.csproj", "{897A550E-6CEF-4F92-85C7-C2FB29B3CA9E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4646648C-7597-4F27-A1B0-D151B9CFB994} = {4646648C-7597-4F27-A1B0-D151B9CFB994}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZomatoApp.Repository", "ZomatoApp.Repository\ZomatoApp.Repository.csproj", "{4646648C-7597-4F27-A1B0-D151B9CFB994}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FF4DF979-CB2C-4121-8607-DC7656C60EB9} = {FF4DF979-CB2C-4121-8607-DC7656C60EB9}
+		{E44E10ED-91AD-4F1B-AF55-A7A94BBF944A} = {E44E10ED-91AD-4F1B-AF55-A7A94BBF944A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZomatoApp.Util", "ZomatoApp.Util\ZomatoApp.Util.csproj", "{FF4DF979-CB2C-4121-8607-DC7656C60EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZomatoApp.DomainModel", "ZomatoApp.DomainModel\ZomatoApp.DomainModel.csproj", "{E44E10ED-91AD-4F1B-AF55-A7A94BBF944A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZomatoApp.Core.Test", "ZomatoApp.Core.Test\ZomatoApp.Core.Test.csproj", "{11A5C692-4A7C-49CE-B465-7DD52E2EEFE1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{897A550E-6CEF-4F92-85C7-C2FB29B3CA9E} = {897A550E-6CEF-4F92-85C7-C2FB29B3CA9E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZomatoApp.Repository.Test", "ZomatoApp.Repository.Test\ZomatoApp.Repository.Test.csproj", "{B410E195-26E1-4D10-B958-87F595D13C7D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4646648C-7597-4F27-A1B0-D151B9CFB994} = {4646648C-7597-4F27-A1B0-D151B9CFB994}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F923792C-ABE9-4F22-9C56-7A934F76403E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F923792C-ABE9-4F22-9C56-7A934F76403E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F923792C-ABE9-4F22-9C56-7A934F76403E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F923792C-ABE9-4F22-9C56-7A934F76403E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897A550E-6CEF-4F92-85C7-C2FB29B3CA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897A550E-6CEF-4F92-85C7-C2FB29B3CA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897A550E-6CEF-4F92-85C7-C2FB29B3CA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897A550E-6CEF-4F92-85C7-C2FB29B3CA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4646648C-7597-4F27-A1B0-D151B9CFB994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4646648C-7597-4F27-A1B0-D151B9CFB994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4646648C-7597-4F27-A1B0-D151B9CFB994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4646648C-7597-4F27-A1B0-D151B9CFB994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF4DF979-CB2C-4121-8607-DC7656C60EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4DF979-CB2C-4121-8607-DC7656C60EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4DF979-CB2C-4121-8607-DC7656C60EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4DF979-CB2C-4121-8607-DC7656C60EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44E10ED-91AD-4F1B-AF55-A7A94BBF944A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44E10ED-91AD-4F1B-AF55-A7A94BBF944A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44E10ED-91AD-4F1B-AF55-A7A94BBF944A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44E10ED-91AD-4F1B-AF55-A7A94BBF944A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A5C692-4A7C-49CE-B465-7DD52E2EEFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A5C692-4A7C-49CE-B465-7DD52E2EEFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A5C692-4A7C-49CE-B465-7DD52E2EEFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A5C692-4A7C-49CE-B465-7DD52E2EEFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B410E195-26E1-4D10-B958-87F595D13C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B410E195-26E1-4D10-B958-87F595D13C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B410E195-26E1-4D10-B958-87F595D13C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B410E195-26E1-4D10-B958-87F595D13C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67CA725F-3A68-46C9-86A7-18AC1EB745A4}
+	EndGlobalSection
+EndGlobal
